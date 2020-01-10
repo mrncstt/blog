@@ -1,7 +1,13 @@
 ---
-title: "My First Post"
-date: 2020-01-09T10:00:52+01:00
-draft: true
+title: "Hello Hugo!"
+description: "Saying 'Hello' from Hugo"
+date: "2014-09-01"
+categories:
+  - "example"
+  - "hello"
+tags:
+  - "example"
+  - "hugo"
+  - "blog"
 ---
-Hallo!
-
+Hello!
