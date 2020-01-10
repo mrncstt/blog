@@ -1,4 +1,4 @@
-baseURL = "https://mrncstt.github.io"
+baseURL = "https://mrncstt.github.io/"
 languageCode = "en-us"
 title = "Mariana Costa"
 theme = "hyde-hyde"
