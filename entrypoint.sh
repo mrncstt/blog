@@ -5,7 +5,6 @@ git submodule update --init --remote themes/hyde-hyde
 cd themes
 ls -ltar
 cd hyde-hyde
-git pull
 ls -ltar
 cd ../..
 ls -ltar
