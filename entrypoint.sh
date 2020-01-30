@@ -41,15 +41,6 @@ ls -la
 git pull -v
 echo "Check credentials."
 git pull -v origin master
-git checkout $remote_branch
-echo "Move .git to build"
-mv .git build/.git
-#find . \( ! -name './.git' -a ! -name './.git/**/*' -a ! -name '\.' \) -delete -print
-cd build
-
-rm -f .gitignore
-rm -f Dockerfile
-rm -f entrypoint.sh
 
 # Create CNAME file for redirect to this repository
 if [[ "${CNAME}" ]]; then
@@ -66,5 +57,5 @@ git status
 echo "Push."
 git push ${remote_repo}
 cd ..
-echo "Remove everything."
+echo "Remove everything generated."
 rm -rf ./public
