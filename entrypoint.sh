@@ -31,9 +31,12 @@ if [[ "${CNAME}" ]]; then
 fi
 
 touch .nojekyll
+pwd
+ls -ltar
 ls -la
 echo "Add all files."
-git add -A
+git add -A -v
+git status
 echo "Commit changes."
 git commit -m 'Hugo build from Action'
 git status
