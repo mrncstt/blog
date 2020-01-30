@@ -1,7 +1,9 @@
+FROM alpine:latest
 
-FROM alpine:3.4
+RUN apk add --no-cache hugo bash
+RUN apk add --no-cache git
 
-COPY entrypoint.sh /
-RUN chmod 777 entrypoint.sh
+ADD entrypoint.sh /
+RUN chmod +x /entrypoint.sh
 
 ENTRYPOINT ["/entrypoint.sh"]

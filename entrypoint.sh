@@ -8,21 +8,14 @@ cd ../..
 
 echo "#################################################"
 echo "Starting the Hugo Action"
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew install hugo
 
-echo "#################################################"
-echo "Source for the Hugo site is set to ${SRC}"
-cd ${SRC}
+sh -c "hugo $*"
 
 hugo -D
 echo "#################################################"
 echo "Hugo build done"
 
-cd build
-# Add some files to .gitignore, which shouldn't be pushed to the user site repo
-echo "Dockerfile" >> .gitignore
-echo "entrypoint.sh" >> .gitignore
+cd public
 
 echo "#################################################"
 echo "Now publishing"
@@ -43,8 +36,6 @@ if [ "${GITHUB_REF}" == "refs/heads/${remote_branch}" ]; then
 else
   echo "Pushing on branch ${remote_branch}"
 fi
-
-cd public
 
 USER_NAME="$(echo ${GITHUB_REPOSITORY} | cut -d'/' -f1)"
 echo "Username: ${USER_NAME}"

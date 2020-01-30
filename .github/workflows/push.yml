@@ -14,5 +14,4 @@ jobs:
       - uses: ./
         env:
           GITHUB_REPOSITORY: mrncstt.github.io
-          SRC: ./
           GITHUB_TOKEN: ${{ secrets.JEKYLL_PAT }}
