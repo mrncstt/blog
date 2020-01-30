@@ -16,6 +16,9 @@ echo "Now publishing"
 SOME_TOKEN=${GITHUB_TOKEN}
 
 git submodule update --init --remote public
+ls -ltar
+cd public
+ls -ltar
 
 # Create CNAME file for redirect to this repository
 if [[ "${CNAME}" ]]; then
