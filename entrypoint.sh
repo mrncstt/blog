@@ -1,10 +1,13 @@
 #!/bin/bash
 set -e
 
+cd themes
+ls -ltar
 cd themes/hyde-hyde
-ls -ltr
+git pull
+ls -ltar
 cd ../..
-ls -ltr
+ls -ltar
 
 echo "#################################################"
 echo "Starting the Hugo Action"
