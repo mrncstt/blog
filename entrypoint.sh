@@ -2,6 +2,7 @@
 set -e
 
 git submodule update --init --remote themes/hyde-hyde
+git submodule update --init --remote public
 
 echo "#################################################"
 echo "Starting the Hugo Action"
@@ -16,7 +17,6 @@ echo "Now publishing"
 SOME_TOKEN=${GITHUB_TOKEN}
 
 ls -ltar
-git submodule update --init --remote public
 cd public
 ls -ltar
 
