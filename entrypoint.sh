@@ -4,7 +4,7 @@ set -e
 git submodule init
 git submodule update
 
-git submodule add https://github.com/mrncstt/mrncstt.github.io.git public
+git submodule add https://${GITHUB_TOKEN}@github.com/mrncstt/mrncstt.github.io.git public
 
 echo "#################################################"
 echo "Starting the Hugo Action"
