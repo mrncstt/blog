@@ -13,5 +13,4 @@ jobs:
       - uses: actions/checkout@master
       - uses: ./
         env:
-          GITHUB_REPOSITORY: mrncstt.github.io
           GITHUB_TOKEN: ${{ secrets.JEKYLL_PAT }}

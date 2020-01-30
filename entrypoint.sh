@@ -1,10 +1,10 @@
 #!/bin/bash
 set -e
 
-git pull
 cd themes/hyde-hyde
-git pull
+ls -ltr
 cd ../..
+ls -ltr
 
 echo "#################################################"
 echo "Starting the Hugo Action"
@@ -22,11 +22,7 @@ echo "Now publishing"
 SOME_TOKEN=${GITHUB_TOKEN}
 
 echo "Current repository is ${GITHUB_REPOSITORY}"
-if echo ${GITHUB_REPOSITORY} | grep -E '^([a-z]*)\/\1\.github\.io$'; then
-  remote_branch="master"
-else
-  remote_branch="gh-pages"
-fi
+remote_branch="master"
 
 echo "Determined branch ${remote_branch}"
 
