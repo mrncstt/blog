@@ -18,8 +18,8 @@ echo "#################################################"
 echo "Now publishing"
 SOME_TOKEN=${GITHUB_TOKEN}
 
-USER_NAME = "${GITHUB_ACTOR}"
-MAIL = "${GITHUB_ACTOR}@users.noreply.github.com"
+USER_NAME="${GITHUB_ACTOR}"
+MAIL="${GITHUB_ACTOR}@users.noreply.github.com"
 
 ls -ltar
 cd public
