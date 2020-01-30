@@ -1,9 +1,11 @@
 #!/bin/bash
 set -e
 
-mkdir public
 git submodule init
 git submodule update
+
+mkdir public
+git submodule add https://github.com/mrncstt/mrncstt.github.io.git public
 
 echo "#################################################"
 echo "Starting the Hugo Action"
@@ -44,3 +46,6 @@ git commit -m 'Hugo build from Action'
 git status
 echo "Push."
 git push
+
+echo "#################################################"
+echo "Published"
