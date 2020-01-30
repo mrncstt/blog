@@ -2,12 +2,6 @@
 set -e
 
 git submodule update --init --remote themes/hyde-hyde
-cd themes
-ls -ltar
-cd hyde-hyde
-ls -ltar
-cd ../..
-ls -ltar
 
 echo "#################################################"
 echo "Starting the Hugo Action"
@@ -29,12 +23,7 @@ remote_branch="master"
 
 echo "Determined branch ${remote_branch}"
 
-if [ "${GITHUB_REF}" == "refs/heads/${remote_branch}" ]; then
-  echo "Cannot publish on branch ${remote_branch}"
-  exit 1
-else
-  echo "Pushing on branch ${remote_branch}"
-fi
+echo "Pushing on branch ${remote_branch}"
 
 USER_NAME="$(echo ${USER_SITE_REPOSITORY} | cut -d'/' -f1)"
 echo "Username: ${USER_NAME}"
