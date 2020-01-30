@@ -1,6 +1,7 @@
 #!/bin/bash
 set -e
 
+git submodule update --remote themes/hyde-hyde
 cd themes
 ls -ltar
 cd hyde-hyde
