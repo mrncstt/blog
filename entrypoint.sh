@@ -1,18 +1,21 @@
 #!/bin/bash
 set -e
 
+git pull
 cd themes/hyde-hyde
 git pull
 cd ../..
 
 echo "#################################################"
 echo "Starting the Hugo Action"
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install hugo
 
 echo "#################################################"
 echo "Source for the Hugo site is set to ${SRC}"
 cd ${SRC}
 
-bundle hugo -D
+hugo -D
 echo "#################################################"
 echo "Hugo build done"
 

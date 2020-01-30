@@ -1,7 +1,5 @@
 
-FROM ruby:2-slim
-
-RUN brew install hugo
+FROM alpine:3.4
 
 COPY entrypoint.sh /
 RUN chmod 777 entrypoint.sh
