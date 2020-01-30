@@ -2,6 +2,7 @@
 set -e
 
 git submodule update --init --remote themes/hyde-hyde
+mkdir public
 git submodule update --init --remote public
 
 echo "#################################################"
