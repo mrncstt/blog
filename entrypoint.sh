@@ -4,7 +4,6 @@ set -e
 git submodule init
 git submodule update
 
-mkdir public
 git submodule add https://github.com/mrncstt/mrncstt.github.io.git public
 
 echo "#################################################"
