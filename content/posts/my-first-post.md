@@ -11,3 +11,4 @@ tags:
   - "blog"
 ---
 Hello!!!
+This is now automatically published!
