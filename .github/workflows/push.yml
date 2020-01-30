@@ -1,0 +1,18 @@
+on:
+  push:
+    branches:
+      - master
+name: on push
+
+jobs:
+
+  build:
+    name: generate and push
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: ./
+        env:
+          GITHUB_REPOSITORY: mrncstt.github.io
+          SRC: ./
+          GITHUB_TOKEN: ${{ secrets.JEKYLL_PAT }}
