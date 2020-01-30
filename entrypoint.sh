@@ -18,6 +18,9 @@ echo "#################################################"
 echo "Now publishing"
 SOME_TOKEN=${GITHUB_TOKEN}
 
+USER_NAME = "${GITHUB_ACTOR}"
+MAIL = "${GITHUB_ACTOR}@users.noreply.github.com"
+
 ls -ltar
 cd public
 ls -ltar
@@ -25,8 +28,8 @@ git log -2
 git remote -v
 
 echo "Set user data."
-git config user.name "${GITHUB_ACTOR}"
-git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+git config user.name "${USER_NAME}"
+git config user.email "${MAIL}"
 
 # Create CNAME file for redirect to this repository
 if [[ "${CNAME}" ]]; then
