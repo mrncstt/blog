@@ -20,6 +20,8 @@ SOME_TOKEN=${GITHUB_TOKEN}
 ls -ltar
 cd public
 ls -ltar
+git log -2
+git remote -v
 
 echo "Set user data."
 git config user.name "${GITHUB_ACTOR}"
