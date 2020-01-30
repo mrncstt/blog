@@ -3,7 +3,7 @@ set -e
 
 cd themes
 ls -ltar
-cd themes/hyde-hyde
+cd hyde-hyde
 git pull
 ls -ltar
 cd ../..
