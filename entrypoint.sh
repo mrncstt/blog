@@ -11,8 +11,6 @@ sh -c "hugo $*"
 echo "#################################################"
 echo "Hugo build done"
 
-cd public
-
 echo "#################################################"
 echo "Now publishing"
 SOME_TOKEN=${GITHUB_TOKEN}
