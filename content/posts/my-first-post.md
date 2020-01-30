@@ -12,3 +12,4 @@ tags:
 ---
 Hello!!!
 This is now automatically published!
+It really works!
