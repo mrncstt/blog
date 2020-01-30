@@ -37,17 +37,13 @@ if [[ "${CNAME}" ]]; then
 fi
 
 touch .nojekyll
-pwd
-ls -ltar
-ls -la
 echo "Add all files."
 git add -A -v
 git status
 echo "Commit changes."
 git commit -m 'Hugo build from Action'
-git status
 echo "Push."
-git push
+git push origin
 
 echo "#################################################"
 echo "Published"
