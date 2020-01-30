@@ -1,9 +1,9 @@
 #!/bin/bash
 set -e
 
-git submodule update --init --remote themes/hyde-hyde
 mkdir public
-git submodule update --init --remote public
+git submodule init
+git submodule update
 
 echo "#################################################"
 echo "Starting the Hugo Action"
