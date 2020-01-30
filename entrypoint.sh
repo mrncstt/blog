@@ -15,8 +15,8 @@ echo "#################################################"
 echo "Now publishing"
 SOME_TOKEN=${GITHUB_TOKEN}
 
-git submodule update --init --remote public
 ls -ltar
+git submodule update --init --remote public
 cd public
 ls -ltar
 
