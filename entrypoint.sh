@@ -14,7 +14,6 @@ echo "Starting the Hugo Action"
 
 sh -c "hugo $*"
 
-hugo -D
 echo "#################################################"
 echo "Hugo build done"
 
