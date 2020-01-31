@@ -14,7 +14,7 @@ O Makeover Monday é um projeto em forma de dashboard que é publicado por algum
 
 ![](https://miro.medium.com/max/641/1*5K4uFM-b4QO7-Ezw_lSHlw.png)
 
-#### O tema da semana 2 é:
+#### O tema da semana 2 é: Uso de pesticidas 
 Os EUA ficam atrás de outras nações agrícolas na proibição de pesticidas nocivos. Quatro dos maiores produtores agrícolas do mundo são EUA, UE (União Européia), China e Brasil. Cada um possui sistemas reguladores de pesticidas separados e distintos, projetados para proteger, em graus variados, os seres humanos e o meio ambiente. Uma pesquisa realizada em 2016 concluiu que 27,3% dos pesticidas usados ​​pelos EUA, sendo 328 M de libras (aproximadamente 148.7 M de Kilos), são proibidos em pelo menos uma das outras nações. Existem 85 pesticidas aprovados pelos EUA, que são proibidos na UE, Brasil ou China.
 
 ## Versão original
