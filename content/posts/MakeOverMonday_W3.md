@@ -27,10 +27,6 @@ tags:
 - União de todos os dados por faixa etária
 
 ## Minha versão
-#### Como desenvolvi?
-##### Escolhi o Power BI por ser uma ferramenta a qual tenho mais familiaridade e pela facilidade de acesso externo. A medida original do uso de pesticida estava em libra, eu realizei a conversão adicionando uma coluna para dar o resultado em Kg.
-
-## Resultado
 
 ![](https://miro.medium.com/max/970/1*aZny5jCxTcJJW_jaIxMvtg.png)
 
