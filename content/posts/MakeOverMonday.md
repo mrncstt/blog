@@ -26,3 +26,27 @@ tags:
 - Comparativo centralizado
 - Simplificação da legenda
 
+## Minha versão
+#### Como desenvolvi?
+##### Escolhi o Power BI por ser uma ferramenta a qual tenho mais familiaridade e pela facilidade de acesso externo. A medida original do uso de pesticida estava em libra, eu realizei a conversão adicionando uma coluna para dar o resultado em Kg.
+
+![](https://miro.medium.com/max/356/1*RgC0bgDYO3A5m077y__nVQ.png)
+![](https://miro.medium.com/max/808/1*WvV_G9DdwcxeEODP3xDTrQ.png)
+
+## Resultado
+
+![](https://miro.medium.com/max/863/1*Kd5B_XwmWRczrdroMLENag.png)
+
+##### Eu criei medidas usando DAX para dar o resultado individual usando elementos de cartão, a fórmula está no quadro a seguir:
+
+```
+brazil = CALCULATE(SUM(Countries[Kg. Pesticides Used in USA Agriculture]);Countries[Texto Após o Delimitador] = "BRA")
+```
+
+## Ponto que queria mostrar:
+  - Resultado em Kg
+  - Comparativos separados
+
+## Links
+- O link sobre o Make Over Monday desta semana está [aqui](https://data.world/makeovermonday/2020w2).
+- O link para a minha visualização feita no Power BI está [aqui](https://app.powerbi.com/view?r=eyJrIjoiMDAzNDk0YzctNTZjZS00ZTM2LTg4NGUtZTkwZTJmYTg3NjUwIiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9).
