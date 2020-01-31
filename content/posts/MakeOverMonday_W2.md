@@ -1,7 +1,7 @@
 ---
 title: "Makeover Monday 2020 W/2"
 description: "Makeover Monday 2020 W/2"
-date: "2020-01-20"
+date: "2020-01-14"
 categories:
   - "makeovermonday"
   - "dataviz"
