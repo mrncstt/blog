@@ -40,10 +40,7 @@ touch .nojekyll
 echo "Add all files."
 git add -A -v
 git status
-echo "Commit changes."
-git commit -m 'Hugo build from Action'
-echo "Push."
-git push origin
+git diff-index --quiet HEAD || echo "Commit changes." && git commit -m 'Hugo build from Action' && echo "Push." && git push origin
 
 echo "#################################################"
 echo "Published"
