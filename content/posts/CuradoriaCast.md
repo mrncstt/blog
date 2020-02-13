@@ -22,16 +22,15 @@ Esperamos que você goste, compartilhe dê seu feedback para a gente.
 
 ## Quem somos?
 
-Baesse – Nas redes sociais [@pbaesse](pbaesse.net).
+#### Baesse – Nas redes sociais [@pbaesse](pbaesse.net).
 
 Curador compulsivo de dicas e recomendações, Professor de TI do [@SouIFRN](https://twitter.com/souifrn), fundador do [@brejatec](https://twitter.com/brejatec), coordenador do [@potilivre](http://www.potilivre.org/), agilista, ambientalista, fotógrafo, skatista longboard, youtuber wannabe, podcaster e meu alterego virtual completo em [pbaesse.net](pbaesse.net)
 
-Mariana Costa – Nas redes sociais [@mrncstt](http://mrncstt.github.io/).
+#### Mariana Costa – Nas redes sociais [@mrncstt](http://mrncstt.github.io/).
 
 Eu sou uma entusiasta pela resolução de problemas. Minha carta preferida é “conquistar 24 territórios à sua escolha” no War.
 
-Myqueas Bruce – Nas redes sociais [@myqueas.bw](https://twitter.com/myqueasbw).
-
+#### Myqueas Bruce – Nas redes sociais [@myqueas.bw](https://twitter.com/myqueasbw).
 
 Eu sou um cara sucinto.
 
