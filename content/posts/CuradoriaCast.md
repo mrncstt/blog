@@ -1,6 +1,6 @@
 ---
-title: "O QUE É O CURADORIACAST?"
-description: "O QUE É O CURADORIACAST?"
+title: "O que é o CuradoriaCast?"
+description: "O que é o CuradoriaCast?"
 date: "2020-02-13"
 categories:
   - "podcast"
