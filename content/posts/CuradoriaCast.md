@@ -22,7 +22,7 @@ Esperamos que você goste, compartilhe dê seu feedback para a gente.
 
 ## Quem somos?
 
-Baesse – Nas redes sociais @pbaesse.
+Baesse – Nas redes sociais [@pbaesse](pbaesse.net).
 
 Curador compulsivo de dicas e recomendações, Professor de TI do [@SouIFRN](https://twitter.com/souifrn), fundador do [@brejatec](https://twitter.com/brejatec), coordenador do [@potilivre](http://www.potilivre.org/), agilista, ambientalista, fotógrafo, skatista longboard, youtuber wannabe, podcaster e meu alterego virtual completo em [pbaesse.net](pbaesse.net)
 
