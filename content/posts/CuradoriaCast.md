@@ -19,6 +19,7 @@ Por ser tocado por 3 pessoas que possuem diversos projetos paralelos o Curadoria
     - Só vamos fazer isso enquanto for legal para nós 3;
     - Vamos lançar quinzenalmente (aproximado);
 Esperamos que você goste, compartilhe dê seu feedback para a gente.
+![](https://i.imgur.com/RmGZ1zn.jpg)
 
 ## Quem somos?
 
