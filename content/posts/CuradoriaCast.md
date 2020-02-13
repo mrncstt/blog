@@ -33,11 +33,13 @@ Eu sou um cara sucinto.
 
 Onde ouvir nossos episódios?
  - [Podbean](https://curadoriacast.podbean.com/)
- - [Deezer]()
- - [Spotify]()
+ - [Deezer](https://www.deezer.com/br/show/842422)
+ - [Spotify](https://open.spotify.com/show/6WQXHqLTBxOi6a4wSPbCgC)
+ - [Google Podcast](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2N1cmFkb3JpYWNhc3QvZmVlZC54bWw)
  - [Apple Music]()
 
 Na internet:
+ - [Site](https://curadoriacast.net/)
  - [Twitter](https://twitter.com/curadoriacast)
  - [Instagram]()
- - [Site](https://curadoriacast.net/)
+
