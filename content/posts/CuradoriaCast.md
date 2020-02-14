@@ -25,15 +25,15 @@ Esperamos que você goste, compartilhe dê seu feedback para a gente.
 
 #### Baesse – Nas redes sociais [@pbaesse](pbaesse.net).
 
-Curador compulsivo de dicas e recomendações, Professor de TI do [@SouIFRN](https://twitter.com/souifrn), fundador do [@brejatec](https://twitter.com/brejatec), coordenador do [@potilivre](http://www.potilivre.org/), agilista, ambientalista, fotógrafo, skatista longboard, youtuber wannabe, podcaster e meu alterego virtual completo em [pbaesse.net](pbaesse.net)
+Curador compulsivo de dicas e recomendações, Professor de TI do [@SouIFRN](https://twitter.com/souifrn), fundador do [@brejatec](https://twitter.com/brejatec), coordenador do [@potilivre](http://www.potilivre.org/), agilista, ambientalista, fotógrafo, skatista longboard, [youtuber](https://www.youtube.com/user/pBaesse/featured?disable_polymer=1), podcaster e o alterego virtual completo em [pbaesse.net](pbaesse.net)
 
 #### Mariana Costa – Nas redes sociais [@mrncstt](http://mrncstt.github.io/).
 
-Eu sou uma entusiasta pela resolução de problemas. Minha carta preferida é “conquistar 24 territórios à sua escolha” no War.
+É entusiasta pela resolução de problemas. Minha carta preferida é “conquistar 24 territórios à sua escolha” no War.
 
 #### Myqueas Bruce – Nas redes sociais [@myqueas.bw](https://twitter.com/myqueasbw).
 
-Eu sou um cara sucinto.
+É um cara sucinto.
 
 Onde ouvir nossos episódios?
  - [Podbean](https://curadoriacast.podbean.com/)
