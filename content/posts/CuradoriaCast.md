@@ -29,7 +29,7 @@ Curador compulsivo de dicas e recomendações, Professor de TI do [@SouIFRN](htt
 
 #### Mariana Costa – Nas redes sociais [@mrncstt](http://mrncstt.github.io/).
 
-É entusiasta pela resolução de problemas. Minha carta preferida é “conquistar 24 territórios à sua escolha” no War.
+É entusiasta pela resolução de problemas. Sua carta preferida é “conquistar 24 territórios à sua escolha” no War.
 
 #### Myqueas Bruce – Nas redes sociais [@myqueas.bw](https://twitter.com/myqueasbw).
 
