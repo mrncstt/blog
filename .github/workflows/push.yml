@@ -2,7 +2,9 @@ on:
   push:
     branches:
       - master
-name: on push
+  schedule:
+    - cron:  '0 0 * * *'
+name: publish on push and schedule
 
 jobs:
 
@@ -11,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
+        with:
+          ref: master
       - uses: ./
         env:
           USER_SITE_REPOSITORY: mrncstt/mrncstt.github.io
