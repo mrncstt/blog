@@ -31,6 +31,8 @@ Mas o que é desconhecido em geral é que existem locais que oferecem tratamento
 | Clinica Integrada Uni-RN | [Uni-RN](https://www.google.com.br/maps/place/Centro+Universit%C3%A1rio+do+Rio+Grande+do+Nortegci+IIR/@-5.7938216,-35.1933153,18.25z/data=!4m5!3m4!1s0x7b300141bee4bf5:0x2f94c82726a27997!8m2!3d-5.7942478!4d-35.193245) |3215-2960 | Seg. a Sex. - Plantão as Quin. | 7:30 as 21 | Gratuito ou conforme a renda após avaliação |
 | Serviço Integrado de Psicologia (SIP)| [UnP da Av. Eng. Roberto Freire](https://www.google.com/maps?q=UnP+da+Av.+Eng.+Roberto+Freire&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi6jKrOqv3nAhUiLbkGHUTbAOMQ_AUoAXoECCIQAw)| 3216-8607 | Seg. a Sex. | 8:30 as 11 - 14 as 17:30 - 18:30 as 20:30 | Gratuito ou conforme a renda após avaliação |
 | Psicólogo Américo | [Site](https://americopsi.wixsite.com/site) | (84) 99671-9543| Consultar disponibilidade | Consultar disponibilidade | Valor social|
+|DEVIR Psicologia | [Rua Plátanos, 2139](https://www.google.com/maps/place/DEVIR+Psicologia+-+Espa%C3%A7o+Terap%C3%AAutico+Social/@-5.8702951,-35.22493,17z/data=!3m1!4b1!4m5!3m4!1s0x7b255ced536b2a7:0xeefa13c4419c82e9!8m2!3d-5.8702951!4d-35.2227413)| 997080204| Seg. a Sex. | 8 as 18 | Valor social|
+
 ## Repositório
 Criei esse repositório para que possam ser feitas contribuições referentes a outros locais que disponham desse tipo de modalidade.
 Para contribuir, [clique aqui](https://github.com/mrncstt/Servico_Psicologico/blob/master/README.md).
