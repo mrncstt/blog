@@ -32,7 +32,7 @@ Mas o que é desconhecido em geral é que existem locais que oferecem tratamento
 | Serviço Integrado de Psicologia (SIP)| [UnP da Av. Eng. Roberto Freire](https://www.google.com/maps?q=UnP+da+Av.+Eng.+Roberto+Freire&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi6jKrOqv3nAhUiLbkGHUTbAOMQ_AUoAXoECCIQAw)| 3216-8607 | Seg. a Sex. | 8:30 as 11 - 14 as 17:30 - 18:30 as 20:30 | Gratuito ou conforme a renda após avaliação |
 | Psicólogo Américo | [Site](https://americopsi.wixsite.com/site) | (84) 99671-9543| Consultar disponibilidade | Consultar disponibilidade | Valor social|
 |DEVIR Psicologia | [Rua Plátanos, 2139](https://www.google.com/maps/place/DEVIR+Psicologia+-+Espa%C3%A7o+Terap%C3%AAutico+Social/@-5.8702951,-35.22493,17z/data=!3m1!4b1!4m5!3m4!1s0x7b255ced536b2a7:0xeefa13c4419c82e9!8m2!3d-5.8702951!4d-35.2227413)| 997080204| Seg. a Sex. | 8 as 18 | Valor social|
-
+|Incubapsi |[CTC](https://www.google.com/maps/dir//CTC+-+Corporate+Tower+Center+-+Av.+Amintas+Barros,+3700+-+Lagoa+Nova,+Natal+-+RN,+59075-810/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x7b2fff30dc13bbd:0x2c8640fda09bf153?sa=X&ved=2ahUKEwiJpZn3lpHoAhX_HbkGHfBRDJAQ48ADMAB6BAgVEC4)|98823-1927 | Seg. a Sex. | 8 às 12 - 14h às 22h |Primeira sessão R$50 e demais conforme a renda |
 ## Repositório
 Criei esse repositório para que possam ser feitas contribuições referentes a outros locais que disponham desse tipo de modalidade.
 Para contribuir, [clique aqui](https://github.com/mrncstt/Servico_Psicologico/blob/master/README.md).
