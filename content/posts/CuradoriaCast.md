@@ -12,7 +12,7 @@ tags:
 ---
 
 ## O que é o Curadoria Cast?
-O [CuradoriaCast](https://curadoriacast.net/) é uma iniciativa de 3 amigos que costumam dar muitas indicações e sempre tem alguma coisa para sugerir. Com a vontade de compartilhar nossas dicas, resolvemos nos reunir espalhar nossas recomendações para um público ainda maior!
+O [CuradoriaCast](https://www.curadoriacast.net/) é uma iniciativa de 3 amigos que costumam dar muitas indicações e sempre tem alguma coisa para sugerir. Com a vontade de compartilhar nossas dicas, resolvemos nos reunir espalhar nossas recomendações para um público ainda maior!
 
 Por ser tocado por 3 pessoas que possuem diversos projetos paralelos o CuradoriaCast têm só 2 regras:
 
@@ -40,10 +40,10 @@ Onde ouvir nossos episódios?
  - [Deezer](https://www.deezer.com/br/show/842422)
  - [Spotify](https://open.spotify.com/show/6WQXHqLTBxOi6a4wSPbCgC)
  - [Google Podcast](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2N1cmFkb3JpYWNhc3QvZmVlZC54bWw)
- - [Apple Music]()
+ - [Apple Music](https://podcasts.apple.com/us/podcast/curadoriacast/id1497631234)
 
 Na internet:
  - [Site](https://curadoriacast.net/)
  - [Twitter](https://twitter.com/curadoriacast)
- - [Instagram]()
+ - [Instagram](https://www.instagram.com/curadoriacast_/)
 
