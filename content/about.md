@@ -11,7 +11,7 @@ Projetos que participo:
 
 - [Curadoria Cast](https://www.curadoriacast.net/)
 
-    - O CuradoriaCast é uma iniciativa de 3 amigos que costumam dar muitas indicações e sempre tem alguma coisa para sugeriR.
+    - O CuradoriaCast é uma iniciativa de 3 amigos que costumam dar muitas indicações e sempre tem alguma coisa para sugerir.
     
     
 - [Dados Abertos .RN](https://github.com/dadosabertosrn/DadosAbertosRN)
