@@ -29,14 +29,6 @@ echo "#################################################"
 echo "Now publishing"
 SOME_TOKEN=${GITHUB_TOKEN}
 
-echo "#################################################"
-echo "Set branch for submodule public to master"
-
-git submodule set-branch --branch master public
-
-echo "#################################################"
-echo "Set branch for submodule"
-
 USER_NAME="${GITHUB_ACTOR}"
 MAIL="${GITHUB_ACTOR}@users.noreply.github.com"
 
@@ -59,7 +51,8 @@ touch .nojekyll
 echo "Add all files."
 git add -A -v
 git status
-git diff-index --quiet HEAD || echo "Commit changes." && git commit -m 'Hugo build from Action' && echo "Push." && git push origin
+
+git diff-index --quiet HEAD || echo "Commit changes." && git commit -m 'Hugo build from Action' && echo "Push." && git push origin master
 
 echo "#################################################"
 echo "Published"
