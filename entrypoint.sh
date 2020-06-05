@@ -4,7 +4,18 @@ set -e
 git submodule init
 git submodule update
 
-git submodule add https://${GITHUB_TOKEN}@github.com/mrncstt/mrncstt.github.io.git public
+echo "#################################################"
+echo "Add public as submodule"
+
+git submodule add https://${GITHUB_TOKEN}@github.com/${USER_SITE_REPOSITORY}.git public
+cd public
+git checkout gh-pages
+git pull
+
+cd ..
+
+echo "#################################################"
+echo "Added submodule"
 
 echo "#################################################"
 echo "Starting the Hugo Action"
