@@ -18,4 +18,4 @@ jobs:
       - uses: ./
         env:
           USER_SITE_REPOSITORY: mrncstt/mrncstt.github.io
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.JEKYLL_PAT }}
