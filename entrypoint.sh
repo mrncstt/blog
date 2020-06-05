@@ -9,6 +9,7 @@ echo "Add public as submodule"
 
 git submodule add https://${GITHUB_TOKEN}@github.com/${USER_SITE_REPOSITORY}.git public
 cd public
+git checkout master
 git pull
 
 cd ..
@@ -27,6 +28,14 @@ echo "Hugo build done"
 echo "#################################################"
 echo "Now publishing"
 SOME_TOKEN=${GITHUB_TOKEN}
+
+echo "#################################################"
+echo "Set branch for submodule public to master"
+
+git submodule set-branch --branch master public
+
+echo "#################################################"
+echo "Set branch for submodule"
 
 USER_NAME="${GITHUB_ACTOR}"
 MAIL="${GITHUB_ACTOR}@users.noreply.github.com"
