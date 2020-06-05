@@ -56,3 +56,4 @@ git diff-index --quiet HEAD || echo "Commit changes." && git commit -m 'Hugo bui
 
 echo "#################################################"
 echo "Published"
+
