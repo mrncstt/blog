@@ -9,7 +9,6 @@ echo "Add public as submodule"
 
 git submodule add https://${GITHUB_TOKEN}@github.com/${USER_SITE_REPOSITORY}.git public
 cd public
-git checkout gh-pages
 git pull
 
 cd ..
