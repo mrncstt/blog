@@ -46,7 +46,7 @@ E inserimos tags /palavras-chave a variável que realiza a contabilização e pa
 
 ![](https://miro.medium.com/max/579/1*atSPDH3zOGeMUPGiRU6uqw.png)
 
-#### Contextualização 
+#### Resultado 
 ![](https://miro.medium.com/max/674/1*PMJZwpcV33OJSoZWeqvcpg.png)
 
 A análise de sentimentos dessas palavras foi realizada como um tópico adicional dentro do painel em que ele está inserido, mas nos fornece algumas umas ideias muito interessantes de como essas recordações são trazidas à memória.
