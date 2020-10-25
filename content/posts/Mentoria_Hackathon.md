@@ -21,13 +21,14 @@ Eventos que fui mentora:
 - [UFScar - Desafio Inovação e Empreendedorismo - 2020](https://www.facebook.com/desafioufscar/)
 
 
-### 1. Ouvir é a chave: 
+### 1. Mentorar é uma via de mão dupla: 
 
-Às vezes, os mentores confundem ouvir com escutar. A escuta ativa promove confiança e respeito, ajuda a resolver problemas e promove uma melhor compreensão das pessoas.
+Mentorar não é apenas sobre firnecer ajuda as outras pessoas. Você terá a oportunidade de desenvolver habilidades de liderança, poderá aprender a ensinar melhor e reforçar a habilidade de como fazer boas perguntas, a pessoa que mentora não está ali somente para responder as perguntas, é importante também instigar os times a desenvolverem seus proŕios caminhos. Esta é a oportunidade de apoiar pessoas, ao mesmo tempo, fortalecer ainda mais sua rede de contatos.
 
-### 2. Mentorar é uma via de mão dupla: 
+### 2. Ouvir é a chave: 
 
-Ser um mentor não é apenas fornecer uma boa ajuda aos outros. Você desenvolverá fortes habilidades de liderança, ganhará novas perspectivas e as lições que ensinar podem lembrá-lo de seguir seus bons conselhos! Esta é a oportunidade de apoiar pessoas, ao mesmo tempo, fortalecer ainda mais sua rede de contatos.
+Às vezes, os mentores confundem ouvir com escutar. A escuta ativa promove confiança e respeito, ajuda a resolver problemas e promove uma melhor compreensão do desenvolvimento dos projetos do time. Para isso, tome anotações ao longo das mentorias, questione caso algo não tenha ficado compreensível, pois se tudo der certo, o time irá passar por uma banca de pessas avaliadores e quando mais entendível a solução desenvolvida, melhor.
+
 
 ### 3. Não caia em tentação na Sindrome de Mestre dos Magos: 
 ![](https://i.imgur.com/tcgdHjD.jpg)
