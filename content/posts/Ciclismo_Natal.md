@@ -36,3 +36,4 @@ Carlinhos Bike    | 99182-2859
 - [WR bike](https://www.instagram.com/_wrbike/)  
 - [Mister Bike](https://www.instagram.com/misterbikenatal/)
 - [Sport BikeMoto](https://www.instagram.com/sport_bikemoto/)
+- [MN Bike Service](https://www.instagram.com/mnbike_service/)
