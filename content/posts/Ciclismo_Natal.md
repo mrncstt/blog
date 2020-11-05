@@ -17,7 +17,7 @@ tags:
 
 ### Locais para manutenção/revisão
 Local | Contato  
-:-------: | ------: 
+:-------: | :------: 
 Marcelo Bike     | 99175-3138 
 Neto Mecânico | 98773-4231 
 Carlinhos Bike    | 99182-2859 
