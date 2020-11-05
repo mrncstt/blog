@@ -1,5 +1,5 @@
 ---
-title: "Ciclismo na grande Natal -RN"
+title: "Ciclismo na região metropolistana de Natal/RN"
 description: "Ciclismo"
 date: "2020-11-05"
 categories:
@@ -7,11 +7,12 @@ categories:
 tags:
   - "Ciclismo"
   - "saude"
+  - "Natal/RN"
 ---
 
 
 
-# Ciclismo na grande Natal-RN
+# Ciclismo na região metropolistana de Natal/RN
 
 
 ### Locais para manutenção/revisão
