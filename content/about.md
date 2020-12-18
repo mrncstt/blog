@@ -25,11 +25,11 @@ I'm enthusiastic about data culture and problem-solving and my favorite card is 
 Projects I participate in:
 
 
-- [Curadoria Cast] (https://www.curadoriacast.net/)
+- [Curadoria Cast](https://www.curadoriacast.net/)
 
     - CuradoriaCast is an initiative that started with 3 friends who usually give many indications and always have something to suggest.
     
     
-- [Open Data .RN] (https://github.com/dadosabertosrn/DadosAbertosRN)
+- [Open Data .RN](https://github.com/dadosabertosrn/DadosAbertosRN)
 
     - Discussion group on the system of available data and social control in the state of Rio Grande do Norte.
