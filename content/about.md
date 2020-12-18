@@ -1,6 +1,6 @@
 +++
 title = "About Mariana Costa"
-date = "2020-12-18"
+date = "2020-01-01"
 +++
 
 Engenheira de produção graduada pela Universidade Federal do Rio Grande do Norte, no momento está atuando como Analista de Dados.
