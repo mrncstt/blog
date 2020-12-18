@@ -20,7 +20,7 @@ Projetos que participo:
 
 --------
  I have done graduation in B.E. Production Engineering from the Federal University of Rio Grande do Norte (Brazil), I'm currently working as a Data Analyst.
-I'm enthusiastic about data culture and problem-solving and my favorite card is "conquering 24 territories of his choice" in War.
+I'm enthusiastic about data culture and problem-solving and my favorite card is "conquering 24 territories of my choice" in War.
 
 Projects I participate in:
 
