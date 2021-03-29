@@ -19,6 +19,8 @@ Eventos que fui mentora:
 - [Nasa - Space Apps Challenge 2020](https://2020.spaceappschallenge.org/awards/global-nominees)
 - [ONU e Sebrae - Social Hack 2020](https://www.sympla.com.br/social-hack---hackeando-os-objetivos-globais-da-onu__661769)
 - [UFScar - Desafio Inovação e Empreendedorismo - 2020](https://www.facebook.com/desafioufscar/)
+- [Polinize Hackathon 2020](https://hackathon.polinize.com/)
+- [Hacka das Manas 2021](https://www.hackathondasmanas.com/)
 
 
 ### 1. Mentorar é uma via de mão dupla: 
