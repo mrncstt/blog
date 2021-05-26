@@ -16,7 +16,7 @@ O [CuradoriaCast](https://www.curadoriacast.net/) é uma iniciativa de 3 amigos 
 
 Por ser tocado por 2 pessoas que possuem diversos projetos paralelos o CuradoriaCast têm só 2 regras:
 
-    - Só vamos fazer isso enquanto for legal para nós 3;
+    - Só vamos fazer isso enquanto for legal para nós;
     - Vamos lançar quinzenalmente (aproximado);
 Esperamos que você goste, compartilhe dê seu feedback para a gente.
 ![](https://i.imgur.com/RmGZ1zn.jpg)
