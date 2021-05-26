@@ -12,9 +12,9 @@ tags:
 ---
 
 ## O que é o Curadoria Cast?
-O [CuradoriaCast](https://www.curadoriacast.net/) é uma iniciativa de 3 amigos que costumam dar muitas indicações e sempre tem alguma coisa para sugerir. Com a vontade de compartilhar nossas dicas, resolvemos nos reunir espalhar nossas recomendações para um público ainda maior!
+O [CuradoriaCast](https://www.curadoriacast.net/) é uma iniciativa de 3 amigos que costumam dar muitas indicações e sempre tem alguma coisa para sugerir. Com a vontade de compartilhar nossas dicas, resolvemos nos reunir espalhar nossas recomendações para um público ainda maior! Um dos membros precisou dar um tempo das atividades do podcast para desenvolver outras atividades e com isso o podcast agora passa eventualmente convidar algumas pessoas para falar sobre tópicos relacionados aos episódios.
 
-Por ser tocado por 3 pessoas que possuem diversos projetos paralelos o CuradoriaCast têm só 2 regras:
+Por ser tocado por 2 pessoas que possuem diversos projetos paralelos o CuradoriaCast têm só 2 regras:
 
     - Só vamos fazer isso enquanto for legal para nós 3;
     - Vamos lançar quinzenalmente (aproximado);
@@ -31,9 +31,7 @@ Curador compulsivo de dicas e recomendações, Professor de TI do [@SouIFRN](htt
 
 É entusiasta pela resolução de problemas. Sua carta preferida é “conquistar 24 territórios à sua escolha” no War.
 
-#### Myqueas Bruce – Nas redes sociais [@myqueas.bw](https://twitter.com/myqueasbw).
 
-É um cara sucinto.
 
 Onde ouvir nossos episódios?
  - [Podbean](https://curadoriacast.podbean.com/)
