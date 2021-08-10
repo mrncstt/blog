@@ -12,7 +12,7 @@ tags:
 ---
 #### Contextualização 
 
-Eu trabalho como analista de dados no Grupo Vila, uma empresa do setor funerário que oferta serviços e produtos funerários, cemiteriais e planos de de assistência funerária. Na organização existem diversos projetos e dentro deles existe o Morada da Memória que é um memorial online que traz relatos de familiares e amigos(as) de pessoas queridas que já partiram e tem como objetivo preservar memórias e perpetuar emoções.
+Eu trabalhei como analista de dados no Grupo Vila, uma empresa do setor funerário que oferta serviços e produtos funerários, cemiteriais e planos de de assistência funerária. Na organização existem diversos projetos e dentro deles existe o Morada da Memória que é um memorial online que traz relatos de familiares e amigos(as) de pessoas queridas que já partiram e tem como objetivo preservar memórias e perpetuar emoções.
 
 
 ![](https://miro.medium.com/max/700/1*wEHOfAw9XC3ysz4lVacwag.png)
