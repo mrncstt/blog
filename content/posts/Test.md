@@ -1,0 +1,14 @@
+---
+title: "Power_BI"
+description: "PBI"
+date: "2021-03-09"
+categories:
+  - "BI"
+  - "Data"
+tags:
+  - "Data"
+  - "BI"
+---
+
+
+# sdfsdfsdf
