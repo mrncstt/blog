@@ -1,7 +1,7 @@
 ---
 title: "Power_BI"
 description: "PBI"
-date: "2021-03-09"
+date: "2021-11-23"
 categories:
   - "BI"
   - "Data"
@@ -11,4 +11,4 @@ tags:
 ---
 
 
-# sdfsdfsdf
+# Sample
