@@ -13,4 +13,8 @@ tags:
 
 # Coisas que você deveria saber/usar ao começar a desenvolver no Power BI
 
+
+
+# Things you should know/use when starting to develop Power BI
+
 ## file
