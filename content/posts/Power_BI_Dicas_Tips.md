@@ -11,6 +11,6 @@ tags:
 ---
 
 
-# Sample
+# Coisas que você deveria saber/usar ao começar a desenvolver no Power BI
 
 ## file
