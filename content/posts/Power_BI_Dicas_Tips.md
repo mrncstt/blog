@@ -1,7 +1,7 @@
 ---
 title: "Power_BI"
 description: "PBI"
-date: "2021-11-22"
+date: "2022-03-02"
 categories:
   - "BI"
   - "Data"
