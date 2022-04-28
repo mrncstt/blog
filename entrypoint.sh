@@ -1,6 +1,8 @@
 #!/bin/bash
 set -e
 
+git config --global --add safe.directory $GITHUB_WORKSPACE
+
 git submodule init
 git submodule update
 
