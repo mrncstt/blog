@@ -1,23 +1,24 @@
 ---
-title: "Power_BI"
+title: "How I keep myself updated about data stuffs"
 description: "PBI"
-date: "2022-03-02"
+date: "2022-07-07"
 categories:
-  - "BI"
+  - "Updated"
   - "Data"
 tags:
   - "Data"
   - "BI"
+  - "Update"
 ---
 
 
-# Coisas que você deveria saber/usar ao começar a desenvolver no Power BI
+# Twitter
+Yes, I have a Twitter profile, that I use basically to follow people that I like, see [@RespectfulMemes](https://twitter.com/RespectfulMemes), get impressed by [@georainbolt](https://twitter.com/georainbolt)  and laugh with thing like this:
+
+![](https://i.imgur.com/wXb2y5U.jpg)
 
 
-## 1. Ajuste a página
-
-A imagem fica muito, muito grande porque o Power BI sempre alterna as páginas por padrão para caber na página. Portanto, quando você estiver projetando dicas de ferramentas, certifique-se de mudar a visualização da página para o tamanho real, o que lhe dará uma ideia de quanto espaço você realmente tem.
-
-# Things you should know/use when starting to develop Power BI
-
-## file
+People that I follow:
+- [@Sumanth_077](https://twitter.com/Sumanth_077)
+- [@FlerlageKev](https://twitter.com/FlerlageKev)
+He's a Tableau expert
