@@ -26,6 +26,7 @@ People that I follow:
 - [@AgulloBernat](https://twitter.com/AgulloBernat)
 - [@dair_ai](https://twitter.com/dair_ai)
 - [@thejustinwelsh](https://twitter.com/thejustinwelsh)
+- [@xlth](https://twitter.com/xlth)
 
 # Email
 Newsletters:
