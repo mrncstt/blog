@@ -1,6 +1,6 @@
 ---
 title: "How do I keep myself updated about data, product management, productivity and others stuffs"
-description: "PBI"
+description: "Infos"
 date: "2022-07-07"
 categories:
   - "Updated"
