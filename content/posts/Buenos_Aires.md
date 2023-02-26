@@ -1,7 +1,7 @@
 ---
 title: "Como foi a minha viagem para Buenoes Aires"
 description: "Viagem"
-date: "2023-02-12"
+date: "2023-02-26"
 categories:
   - "Travel"
   - "Blog"
